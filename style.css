@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+    font-family: 'Cedarville Cursive', cursive;
+font-family: 'Titan One', cursive;
+text-shadow: 0.6rem 0 black;
+}
+ 
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+.player{
+    display:inline-block ;
+    text-align: center;
+
+
+}
+img{
+    width: 80%;
+}
+body{
+    background-color: pink;
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+    color: blueviolet;
+}
+p{
+    font-family: 'Cedarville Cursive', cursive;
+font-family: 'Titan One', cursive;
+    ;
+}
